@@ -1,7 +1,7 @@
 <h1 align="center"> Pocket World - Human-AI Co-Design for AI Systems</h1>
 
 <div align="center">
-  <img src="./pocket.png"/>
+  <img src="./pocketworld.png"/>
 </div>
 
 # Enterprises and AI Automation
